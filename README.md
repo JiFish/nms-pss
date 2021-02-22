@@ -11,8 +11,8 @@ Run `python pss.py` and follow instructions
 
 ## Future
 
-This is a prototype. Step 2 is to refactor this script in to a library. Step 3 is to creature a Pokemon-inspired GUI for the software.
+This is a prototype. Step 2 is to refactor this script in to a module. Step 3 is to creature a Pokemon-inspired GUI for the software.
 
 ## Want to help?
 
-Please get in touch using the issue queue.
+Please get in touch using the discussion board.
